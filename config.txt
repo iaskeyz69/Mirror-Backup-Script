@@ -1,0 +1,11 @@
+sourceFolder=%USERPROFILE%\Documents
+destinationFolder=R:\Documents
+sourceFolder2=%USERPROFILE%\Desktop
+destinationFolder2=R:\Desktop
+logFile=%USERPROFILE%\Documents\automatic-backup\SyncLog.txt
+sendEmail=true
+adminEmail=admin@example.com
+smtpServer=smtp.example.com
+smtpPort=587
+fromEmail=backup@example.com
+emailPassword=password
