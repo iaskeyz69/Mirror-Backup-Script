@@ -7,11 +7,6 @@ This script automates the process of synchronizing user documents and desktop fo
 - **backup_script.bat:** Batch script for synchronization.
 - **send_email.py:** Python script for sending email notifications.
 
-## Directory Structure
-
-
-Directory Structure:
-
 
 
 ## Usage
