@@ -11,17 +11,6 @@ This script automates the process of synchronizing user documents and desktop fo
 
 
 Directory Structure:
-C:\
-│
-├── backup_script.bat
-├── send_email.py
-└── Users\
-    └── [user_name]\
-        ├── Documents\
-        │   └── automatic-backup\
-        │       └── SyncLog.txt
-        └── Desktop\
-
 
 
 
