@@ -21,5 +21,5 @@ This script automates the process of synchronizing user documents and desktop fo
 - Customize the configuration settings according to your requirements before running the script.
 - The `SyncLog.txt` file will be created automatically in the `automatic-backup` folder.
 
-For any issues or suggestions, please contact [your contact information].
+
 
